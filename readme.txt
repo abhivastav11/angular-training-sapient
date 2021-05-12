@@ -1,1 +1,1 @@
-test git commit
+This project contains angular application assignment as part of angular training project.
