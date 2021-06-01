@@ -1,6 +1,6 @@
 This project contains angular application assignment as part of angular training project.
 
-commands to run to setup project::
+commands to run to setup project ::
 npm install --save bootstrap@3
 npm install --save-dev @angular-devkit/build-angular
 npm install --save-dev @angular/compiler
